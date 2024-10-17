@@ -1,15 +1,14 @@
-# 🚀 Iván Guillén - 42 School Portfolio
+<div align="center">
 
-![42 Logo](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/ivanguillen/42-portfolio?style=for-the-badge)
+# 🚀 Iván Guillén | 42 Madrid 🚀
 
-## 👨‍💻 About Me
+![42 Madrid](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ivanguillen.42portfolio)
 
-Hello, World! I'm Iván Guillén, a passionate coder and student at 42 Madrid. This repository showcases my journey through the innovative and challenging curriculum of 42.
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-```c
-int main(void)
-{
-    printf("Welcome to my coding universe!\n");
-    return (0);
-}
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;Welcome+to+my+Coding+Universe;Exploring+the+depths+of+C;Building+the+future%2C+one+line+at+a+time)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+</div>
