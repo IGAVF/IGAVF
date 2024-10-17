@@ -1,16 +1,15 @@
-##                                                                                                                      Welcome, My name is Ivan Guillen👋
+# 🚀 Iván Guillén - 42 School Portfolio
 
-<!--
-**IGAVF/IGAVF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![42 Logo](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/ivanguillen/42-portfolio?style=for-the-badge)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, World! I'm Iván Guillén, a passionate coder and student at 42 Madrid. This repository showcases my journey through the innovative and challenging curriculum of 42.
+
+```c
+int main(void)
+{
+    printf("Welcome to my coding universe!\n");
+    return (0);
+}
