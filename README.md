@@ -3,7 +3,6 @@
 # 🚀 Iván Guillén | 42 Madrid 🚀
 
 ![42 Madrid](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ivanguillen.42portfolio)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
